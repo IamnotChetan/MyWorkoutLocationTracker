@@ -1,0 +1,5 @@
+1.log my running workouts with location,distance,time,pace and step/min.
+2..log my cycling workouts with location,distance,time,speed and elevation gain.
+3.see all my workouts at glance to make it easy to track.
+4.see the workouts on the map so that i can easily check where i workout the most.
+5.see all my workouts when i leave the app and come back later.
